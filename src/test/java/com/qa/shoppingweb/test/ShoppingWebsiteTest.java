@@ -1,4 +1,4 @@
-package qa.com.shoppingweb.test;
+package com.qa.shoppingweb.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -15,6 +15,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
+
+
 
 public class ShoppingWebsiteTest {
 	
